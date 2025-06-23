@@ -1,0 +1,15 @@
+cider/*
+ckpts/*
+coco2014/*
+compare/*
+outputs/*
+tensorboard/*
+.vscode
+*.pyc
+cider
+datasets/caption/coco-caption
+*.so
+datasets/caption/metrics
+datasets/caption/metrics-bkup
+*.o
+*.run
